@@ -22,6 +22,12 @@ Demonstrates connecting multiple `struct` objects with the `()` operator overloa
 Demonstrates connecting several `void(float, float)` functions to a signal.
 
 
+`member_function.cpp`
+-------------------
+
+Demonstrates connecting a class member function to a signal.
+
+
 Recommended reading
 ===================
 
