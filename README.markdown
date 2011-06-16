@@ -26,5 +26,6 @@ Recommended reading
 ===================
 
 Here are some resources regarding `boost::signals` and `boost::signals2`:
-    -Performance comparison of [Boost signals (1.36.0) vs. sigc++ (2.0.18)](http://silvermace.com/2008/08/boost-signals-1360-vs-sigc-2018/)
-    -[Switching from sigc++ to boost::signals2](http://ardour.org/development/signals)
+
+ - Performance comparison of [Boost signals (1.36.0) vs. sigc++ (2.0.18)](http://silvermace.com/2008/08/boost-signals-1360-vs-sigc-2018/)
+ - [Switching from sigc++ to boost::signals2](http://ardour.org/development/signals)
